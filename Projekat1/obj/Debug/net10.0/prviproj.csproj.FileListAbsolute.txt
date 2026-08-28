@@ -1,0 +1,36 @@
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\bin\Debug\net10.0\prviproj.exe
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\bin\Debug\net10.0\prviproj.deps.json
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\bin\Debug\net10.0\prviproj.runtimeconfig.json
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\bin\Debug\net10.0\prviproj.dll
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\bin\Debug\net10.0\prviproj.pdb
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.AssemblyInfoInputs.cache
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.AssemblyInfo.cs
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.csproj.CoreCompileInputs.cache
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.sourcelink.json
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.dll
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\refint\prviproj.dll
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.pdb
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\prviproj.genruntimeconfig.cache
+C:\Users\stame\Desktop\sistemsko\sistemsko-projekat\projekat 1\prviproj\obj\Debug\net10.0\ref\prviproj.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\prviproj.exe
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\prviproj.deps.json
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\prviproj.runtimeconfig.json
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\prviproj.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\prviproj.pdb
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.AssemblyInfoInputs.cache
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.AssemblyInfo.cs
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.csproj.CoreCompileInputs.cache
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\refint\prviproj.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.pdb
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.genruntimeconfig.cache
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\ref\prviproj.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\System.Private.Windows.Core.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\System.Private.Windows.GdiPlus.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\bin\Debug\net10.0\runtimes\win\lib\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.csproj.AssemblyReference.cache
+C:\Users\agarm\Desktop\Kris\Programming\Projects\Sistemsko\Projekat1\obj\Debug\net10.0\prviproj.csproj.Up2Date
